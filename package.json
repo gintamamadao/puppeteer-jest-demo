@@ -33,6 +33,7 @@
   "devDependencies": {
     "chalk": "^2.4.2",
     "puppeteer": "^3.3.0",
+    "jest": "^26.1.0",
     "tree-kill": "^1.2.2"
   }
 }
